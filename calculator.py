@@ -4,7 +4,7 @@ def add(a, b):
     pass
 
 def subtract(a, b):
-    return a-b:
+    return a-b
     
 def multiply(a, b):
     pass
@@ -15,4 +15,4 @@ def divide(a, b):
 if __name__ == "__main__":
     print(f"Welcome to the Group Calculator!, written by {seemal}")
     print(add(2, 2))
-    print(subtract(5-2))
+    print(subtract(5, 2))
